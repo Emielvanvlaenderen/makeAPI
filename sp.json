@@ -1,0 +1,23 @@
+{
+  "setpoints": [
+    {
+      "address": "0x10D6a7AD3c017d3890cFb1E7E3c195d7A54e2D2E",
+      "setpoint": 1
+    },
+    {
+      "address": "0x4fCfc2A2593F7620f34AFc17B456aC01306a70fe",
+      "setpoint": 2
+    },
+    {
+      "address": "0x537Edbf1C8693ccd10900D2bB7F580b0FD03164f",
+      "setpoint": 3
+    },
+    {
+      "address": "0x3464e3B63e827dBCBCe575B1b7B299ddBbB94Fdf",
+      "setpoint": 4
+    },
+    {
+      "address": "0x8c951310Fc653165BAE81e76Bbaf3f2ebDe93b19",
+      "setpoint": 5
+    }
+  ]
